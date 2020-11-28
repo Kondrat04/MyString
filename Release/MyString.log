@@ -1,0 +1,9 @@
+﻿  MyString.cpp
+  MyString_wrap.cxx
+     Creating library C:\Users\kondr\source\repos\MyString\Release\_mystring.lib and object C:\Users\kondr\source\repos\MyString\Release\_mystring.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\kondr\source\repos\MyString\MyString_wrap.cxx(3220): warning C4172: returning address of local variable or temporary
+  All 276 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MyString.vcxproj -> C:\Users\kondr\source\repos\MyString\Release\_mystring.pyd
